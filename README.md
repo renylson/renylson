@@ -1,6 +1,6 @@
 # Olá, eu sou Renylson Marques 👋
  
-### Desenvolvedor Backend e Full Stack | Bagagem em Telecomunicações, Redes e Infraestrutura
+### Estudante de Engenharia de Sofware
  
 🟢 **Disponível para novas oportunidades como Dev Backend / Full Stack / DevOps**
  
