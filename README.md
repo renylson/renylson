@@ -1,6 +1,6 @@
 # Olá, eu sou Renylson Marques 👋
  
-### Estudante de Engenharia de Sofware
+### Estudante de Engenharia de Software
  
 🟢 **Disponível para novas oportunidades como Dev Backend / Full Stack / DevOps**
  
