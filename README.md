@@ -20,6 +20,14 @@ API REST de gerenciamento de livros construída com Node.js e TypeScript puro, s
 - Tipagem completa com TypeScript em modo estrito
 - Sem dependências de produção — só Node.js nativo
 **Tecnologias:** Node.js · TypeScript · REST API
+
+### [Formula 1 API](https://github.com/renylson/formula1-api-nodejs-fastify)
+API REST com dados de equipes e pilotos da Fórmula 1, construída com Node.js, TypeScript e Fastify — organizada em camadas (routes, controllers, repositories, data e models).
+
+- Separação em camadas: routes, controllers, repositories e models
+- Validação de parâmetros e tratamento de erros (400/404)
+- Build de produção com tsup (ESM)
+**Tecnologias:** Node.js · TypeScript · Fastify · REST API
  
 ---
  
